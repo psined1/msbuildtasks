@@ -70,6 +70,7 @@
     <Compile Include="AspNet\InstallAspNet.cs" />
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="Attrib.cs" />
+    <Compile Include="Brand\Brand.cs" />
     <Compile Include="ByteDescriptions.cs" />
     <Compile Include="Computer\Computer.cs" />
     <Compile Include="Beep\Beep.cs" />
